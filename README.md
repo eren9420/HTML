@@ -51,10 +51,6 @@ img {
     max-width: 100%;
     height: auto;
 }
-
-
-
-
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
